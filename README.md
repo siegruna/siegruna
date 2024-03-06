@@ -3,7 +3,7 @@
 
 - 🌱 I am currently learning **how to program in Java.**
   
-- 🤖 I have some background in robotics, **particularly with ROS..**
+- 🤖 I have some background in robotics, **particularly with ROS.**
 
 - 🎮 I game from time to time, **with RPGs being my favorite genre.**
 
