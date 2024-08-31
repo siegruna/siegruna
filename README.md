@@ -1,7 +1,5 @@
 <h1 align="center">Hey, it's good to see you here. <br> Welcome to my GitHub profile! (*・ω・)ﾉ</h1>
 <h3 align="center">Currently an undergraduate computer science student at HKUST!</h3>
-
-- 🌱 I am currently learning **how to program in Java.**
   
 - 🤖 I have some background in robotics, **particularly with ROS.**
 
@@ -11,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ethannbuen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethann-buen-601a40238" height="30" width="40" /></a>
 <a href="https://discord.com/users/378867995927117824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="378867995927117824" height="30" width="40" /></a>
 </p>
 
